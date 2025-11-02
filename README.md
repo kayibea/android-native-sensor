@@ -1,6 +1,6 @@
-# Android NDK Sensor Demos (Termux)
+# Android NDK Sensor Demos
 
-Two small C programs that use the Android NDK sensor API directly from Termux.
+Two small C programs that use the Android NDK sensor API directly.
 
 ## Files
 
